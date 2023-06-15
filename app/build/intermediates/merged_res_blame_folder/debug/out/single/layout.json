@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "com.tuna.kotlininstagram.app-mergeDebugResources-33:/layout/recycler_row.xml",
+        "source": "com.tuna.kotlininstagram.app-main-36:/layout/recycler_row.xml"
+    },
+    {
+        "merged": "/Users/tunahanozen/.gradle/daemon/7.3.3/com.tuna.kotlininstagram.app-mergeDebugResources-33:/layout/activity_main.xml",
+        "source": "/Users/tunahanozen/.gradle/daemon/7.3.3/com.tuna.kotlininstagram.app-main-36:/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/tunahanozen/.gradle/daemon/7.3.3/com.tuna.kotlininstagram.app-mergeDebugResources-33:/layout/activity_feed.xml",
+        "source": "/Users/tunahanozen/.gradle/daemon/7.3.3/com.tuna.kotlininstagram.app-main-36:/layout/activity_feed.xml"
+    },
+    {
+        "merged": "/Users/tunahanozen/.gradle/daemon/7.3.3/com.tuna.kotlininstagram.app-mergeDebugResources-33:/layout/activity_upload.xml",
+        "source": "/Users/tunahanozen/.gradle/daemon/7.3.3/com.tuna.kotlininstagram.app-main-36:/layout/activity_upload.xml"
+    },
+    {
+        "merged": "/Users/tunahanozen/.gradle/daemon/7.3.3/com.tuna.kotlininstagram.app-mergeDebugResources-33:/layout/recycler_row.xml",
+        "source": "/Users/tunahanozen/.gradle/daemon/7.3.3/com.tuna.kotlininstagram.app-main-36:/layout/recycler_row.xml"
+    }
+]
